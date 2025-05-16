@@ -5,6 +5,7 @@ from student import Student, ChattyStudent
 import io
 import sys
 
+
 class TestStudent:
     '''Class Student in student.py'''
     
